@@ -231,12 +231,11 @@
 		width: 100%;
 		background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(images/gallery-background.jpg);
 		background-position: center;
-		background-size: cover;
+		background-size: contain;
 		padding-left: 8%;
 		padding-right: 8%;
 		box-sizing: border-box;
-		object-fit: contain;
-		height: 100vh; 
+		height: 120vh; 
 		background-repeat: repeat;
 		
 }
@@ -319,7 +318,7 @@
 		
 }
 	.profile-content-wrapper {
-		padding-top:15px!important;
+		padding-top:1px!important;
 }
 	.profile-text {
 		font-size:12px;

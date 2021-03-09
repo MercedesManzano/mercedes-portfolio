@@ -245,7 +245,7 @@
 		width: 100%;
 		height:90%;
 		align-items: center;
-		padding-top: 150px;	
+		padding-top: 110px;	
 }
 	.gallery-column{
 		flex-basis: 100%;
@@ -329,6 +329,7 @@
 	.full-container{
 	height: auto;
 	align-items: center;
+	padding-top:50px;
 }
 	.gallery-column {
 	align-items: center;

@@ -186,7 +186,8 @@
 		color:#FFFFFF;
 		font-size:50px;
 		line-height: 1.2em !important;
-		text-align:left;	
+		text-align:left;
+		padding-bottom:10px;	
 }
 	.two-column-wrapper {
 		display: grid;
@@ -199,7 +200,7 @@
 }
 	.profile-content-wrapper {
 		width:70%;
-		padding: 30px;
+		padding: 5px;
 		max-width:750px;
 		text-align:left;
 		font-size:14px;
@@ -235,7 +236,7 @@
 		padding-left: 8%;
 		padding-right: 8%;
 		box-sizing: border-box;
-		height: 120vh; 
+		height: 140vh; 
 		background-repeat: repeat;
 		
 }

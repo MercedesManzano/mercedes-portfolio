@@ -237,6 +237,7 @@
 		box-sizing: border-box;
 		object-fit: contain;
 		height: 100vh; 
+		background-repeat: repeat;
 		
 }
 	.full-row{

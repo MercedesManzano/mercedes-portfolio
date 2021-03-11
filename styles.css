@@ -381,9 +381,10 @@
 	
 }
 	.column{
-		width:50%;
+		width:80%;
 		height:auto;
-		text-align:justify;		
+		text-align:justify;	
+		padding-top: 50%;	
 }
 	.column1{
 		width:70%;
@@ -392,7 +393,7 @@
 		
 }
 	.row{
-		padding-top: 30px;	
+		padding-top:0px;	
 }
 	h1{
 		font-size:35px;

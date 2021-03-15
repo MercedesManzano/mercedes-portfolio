@@ -381,13 +381,13 @@
 	
 }
 	.column{
-		width:80%;
+		width:50%;
 		height:auto;
 		text-align:justify;	
 		padding-top: 50%;	
 }
 	.column1{
-		width:70%;
+		width:60%;
 		height:auto;
 		padding-top:10px;
 		
@@ -429,6 +429,10 @@
 		padding-left:2%;
 		padding-right:2%;
 		margin:4px 8px;
+}
+	button{
+		width: 200px;
+		font-size:14px;			
 }
 }
 	

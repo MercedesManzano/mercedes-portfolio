@@ -6,7 +6,7 @@
 }
 	.container{
 		width: 100%;
-		height: 100vh;
+		height: 150vh;
 		background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(images/paradise.jpg);
 		background-position: center;
 		background-size: cover;
@@ -177,7 +177,7 @@
 	.container-about {
 		background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(images/about-background.jpg);
 		width: 100%;
-		height: 100vh; 
+		height: 150vh; 
 }
 	h4{
 		color:#FFFFFF;
@@ -436,12 +436,7 @@
 		width: 200px;
 		font-size:14px;			
 }
-.container{
-		height: 150vh;
-}
-.container-about {	
-		height: 150vh; 
-}
+
 }
 	
 		

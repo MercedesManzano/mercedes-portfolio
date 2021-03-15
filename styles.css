@@ -357,6 +357,7 @@
 		max-width:80%;
 		display: inline-block;
 		padding-left:80px;
+		
 }
 	.profile-content-wrapper {
 		width:80%;
@@ -437,6 +438,9 @@
 }
 .container{
 		height: 150vh;
+}
+.container-about {	
+		height: 150vh; 
 }
 }
 	

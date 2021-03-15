@@ -317,6 +317,7 @@
 	.row{
 		padding-top: 150px;	
 		height: 50%;
+		padding-left: 60px;
 }	
 
 	.card {
@@ -384,12 +385,12 @@
 		width:50%;
 		height:auto;
 		text-align:justify;	
-		padding-top: 50%;	
+		padding-top: 30px;	
 }
 	.column1{
 		width:60%;
 		height:auto;
-		padding-top:10px;
+		
 		
 }
 	.row{
@@ -435,7 +436,7 @@
 		font-size:14px;			
 }
 .container{
-		height: 150vh;
+		height: 110vh;
 }
 }
 	
